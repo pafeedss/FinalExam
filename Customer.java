@@ -12,7 +12,7 @@ public abstract class Customer {
    } 
   public void setName(String name){	 
      this.name=name; 
-   } 	
-  public abstract double 
- calculateBill();
+   }
+public abstract double
+calculateBill();
   }
