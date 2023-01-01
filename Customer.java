@@ -14,5 +14,5 @@ public abstract class Customer {
      this.name=name; 
    } 	
   public abstract double 
-    calculateBill();
+ calculateBill();
   }
